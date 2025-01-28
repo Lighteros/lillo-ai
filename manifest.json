@@ -1,0 +1,16 @@
+{
+  "name": "Lillo AI",
+  "short_name": "Lillo",
+  "description": "Lillo is a cutting-edge AI Agent framework that empowers anyone to create and deploy a personalized AI Agent on Telegram. Customize your AI Agent's appearance, personality, and unique traits to align with your vision. Your agent will receive constant upgrades with new functionality and data sources.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030613",
+  "theme_color": "#030613",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
