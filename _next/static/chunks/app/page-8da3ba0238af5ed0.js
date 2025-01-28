@@ -225,7 +225,7 @@
                 className: "navbar__links",
                 children: [
                   (0, t.jsx)("a", {
-                    href: "https://lewy0s-organization.gitbook.io/lilo-ai",
+                    href: "https://docs.lilloai.cc",
                     className: "navbar__link",
                     target: "_blank",
                     rel: "noopener noreferrer",
