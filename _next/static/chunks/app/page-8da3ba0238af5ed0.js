@@ -715,7 +715,7 @@
                         className: "exchanges",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
                             className: "exchange-link glass--interactive",
                             target: "_blank",
                             rel: "noopener noreferrer",
@@ -728,7 +728,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0x0123456789",
+                            href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
                             className: "exchange-link glass--interactive",
                             target: "_blank",
                             rel: "noopener noreferrer",
