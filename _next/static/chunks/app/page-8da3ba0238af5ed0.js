@@ -190,7 +190,7 @@
               children: "Want to buy Lillo AI Token?",
             }),
             (0, t.jsx)("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xfD39627c94e5D54B043DdF066860ACecCFB1c4E7",
               className: "button",
               target: "_blank",
               rel: "noopener noreferrer",
@@ -658,7 +658,7 @@
       }
       function _() {
         let [e, s] = (0, n.useState)(!1),
-          a = "0x00000000000000000000000000000000000000",
+          a = "0xfD39627c94e5D54B043DdF066860ACecCFB1c4E7",
           r = async () => {
             await navigator.clipboard.writeText(a),
               s(!0),
@@ -715,7 +715,7 @@
                         className: "exchanges",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xfD39627c94e5D54B043DdF066860ACecCFB1c4E7",
                             className: "exchange-link glass--interactive",
                             target: "_blank",
                             rel: "noopener noreferrer",
@@ -728,7 +728,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+                            href: "https://dexscreener.com/ethereum/0xfD39627c94e5D54B043DdF066860ACecCFB1c4E7",
                             className: "exchange-link glass--interactive",
                             target: "_blank",
                             rel: "noopener noreferrer",
@@ -741,7 +741,7 @@
                             }),
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://etherscan.io/token/0x00000000000000000000000000000000000000",
+                            href: "https://etherscan.io/token/0xfD39627c94e5D54B043DdF066860ACecCFB1c4E7",
                             className: "exchange-link glass--interactive",
                             target: "_blank",
                             rel: "noopener noreferrer",
